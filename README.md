@@ -1,8 +1,8 @@
 [![MasterHead](https://i.pinimg.com/564x/b5/b1/99/b5b199318734210f5a24e5c5a6e71dc4.jpg)](https://rishavchanda.io)
 
 
-<h1 align="center">Hi 👋, I'm John</h1>
-<h3 align="center">👨‍💻 Hi there, I'm John, an enthusiastic undergraduate student pursuing a degree in Computer Science at the University of Macedonia. I'm passionate about technology and have honed my skills in various facets of the digital world!</h3>
+<h1 align="center">👋 Hello, fellow Coder!</h1>
+<h3 align="center">👨‍💻I'm John, an enthusiastic undergraduate student pursuing a degree in Computer Science at the University of Macedonia. I'm passionate about technology and have honed my skills in various facets of the digital world!</h3>
 
 
 
