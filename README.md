@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/CzdMW7wnLn8AAAAM/coding.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/736x/df/b1/53/dfb153ef5b05cafcfbd0dcde06bb35d4.jpg](https://rishavchanda.io)
 
 
 <h1 align="center">👋 Hello, fellow Coder!</h1>
