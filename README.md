@@ -1,4 +1,4 @@
-[![MasterHead](https://im4.ezgif.com/tmp/ezgif-4-d97d54c85a.webp)](https://rishavchanda.io)
+[![MasterHead](https://github.com/JohnSfy/Profile-Banner/blob/main/Green%20Teal%20Geometric%20Modern%20Computer%20Programmer%20Code%20Editor%20Quotes%20Instagram%20Post%20(2000%20x%20600%20px).gif?raw=true)](https://rishavchanda.io)
 
 
 <h1 align="center">👋 Hello, fellow Coder!</h1>
