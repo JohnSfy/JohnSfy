@@ -16,7 +16,6 @@
 
 - 📫 How to reach me **gsfyrakiss@gmail.com**
 
-- ⚡ Fun fact **My friends call me Skourr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
